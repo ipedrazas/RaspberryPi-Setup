@@ -1,0 +1,13 @@
+
+
+
+
+alias ll='ls -atrhlF'
+alias ..='cd ..'
+alias vi='vim'
+
+alias i='sudo apt-get install'
+alias u='sudo apt-get update'
+
+alias log='tail -f -n50'
+alias untar='tar -xvzf'
