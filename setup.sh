@@ -8,6 +8,6 @@ mkdir -p ~/bin
 cp scripts/off.sh ~/bin/off.sh
 
 cp scripts/aliases ~/.bash_aliases
-cp scripts/vimrc ~/vimrc
+cp scripts/vimrc ~/.vimrc
 
 #sudo mv scripts/interfaces /etc/network/interfaces
