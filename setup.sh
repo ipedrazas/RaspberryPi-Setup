@@ -5,9 +5,9 @@
 sudo apt-get install python-RPi.GPIO python-picamera
 
 mkdir -p ~/bin
-mv scripts/off.sh ~/bin/off.sh
+cp scripts/off.sh ~/bin/off.sh
 
-mv scripts/aliases ~/.bash_aliases
-mv scripts/vimrc ~/vimrc
+cp scripts/aliases ~/.bash_aliases
+cp scripts/vimrc ~/vimrc
 
-sudo mv scripts/interfaces /etc/network/interfaces
+#sudo mv scripts/interfaces /etc/network/interfaces
