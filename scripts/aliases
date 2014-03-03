@@ -1,5 +1,4 @@
 
-
 alias ll='ls -atrhlF'
 alias ..='cd ..'
 alias vi='vim'
@@ -10,6 +9,8 @@ alias ug='sudo apt-get dist-upgrade'
 
 alias log='tail -f -n50'
 alias untar='tar -xvzf'
+
+alias off='sudo shutdown -h now'
 
 # Aliases to load images & videos in the 2.8 TFT
 alias viewvideo='mplayer -vo fbdev2:/dev/fb1 -x 240 -y 320 -framedrop'
