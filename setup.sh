@@ -4,9 +4,6 @@
 # install RPi Camera python libs
 sudo apt-get install python-RPi.GPIO python-picamera htop vim git
 
-mkdir -p ~/bin
-cp scripts/off.sh ~/bin/off.sh
-
 cp scripts/aliases ~/.bash_aliases
 cp scripts/vimrc ~/.vimrc
 
